@@ -56,18 +56,10 @@ The goal is to identify the best-performing products and the most valuable custo
 ## Dashboard Preview
 
 ### Page 1 - Overview / KPI Dashboard
-
-![Page 1](Images/page1_overview_kpi.png)
-
----
+![Page 1](images/page1_overview_kpi.png)
 
 ### Page 2 - Customer Demographics
-
-![Page 2](Images/page2_customer_demographics.png)
-
----
+![Page 2](images/page2_customer_demographics.png)
 
 ### Page 3 - Product & Category Analysis
-
-![Page 3](Images/page3_product_category_analysis.png)
-
+![Page 3](images/page3_product_category_analysis.png)
